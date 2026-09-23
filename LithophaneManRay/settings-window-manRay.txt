@@ -1,0 +1,17 @@
+Email Address: antoine.pollet@univ-lorraine.fr
+Picture: manRay.png
+Frame Options: No Border
+Lithophane Resolution: .1
+Base Length: 150
+Base Width: 7.5
+Base Height: 7.5
+Overhang Angle: 60
+Maximum Thickness: 10
+Minimum Thickness: 1
+Height: 120.72
+Support Thickness: 2
+Support Angle: 75
+X Shift: 0.5
+Y Shift: 0.5
+Rectangle Scale: 1.0
+Crop?: 
