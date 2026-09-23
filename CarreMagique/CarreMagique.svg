@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Grille">
+        <g transform="matrix(1,0,0,1.164815,0,-89)">
+            <rect x="269" y="0" width="271" height="1080" style="fill:none;stroke:black;stroke-width:13.43px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1.164815,540,-89)">
+            <rect x="269" y="0" width="271" height="1080" style="fill:none;stroke:black;stroke-width:13.43px;"/>
+        </g>
+        <g transform="matrix(0,1,-1.168519,0,1171,-0)">
+            <rect x="269" y="0" width="271" height="1080" style="fill:none;stroke:black;stroke-width:13.41px;"/>
+        </g>
+        <g transform="matrix(0,1,-1.168519,0,1171,540)">
+            <rect x="269" y="0" width="271" height="1080" style="fill:none;stroke:black;stroke-width:13.41px;"/>
+        </g>
+    </g>
+    <g id="Numéros">
+        <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">1</text>
+        <g transform="matrix(1,0,0,1,0,269.699356)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">16</text>
+        </g>
+        <g transform="matrix(1,0,0,1,271,0)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">15</text>
+        </g>
+        <g transform="matrix(1,0,0,1,271,269.699356)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,539.624924,0)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">5</text>
+        </g>
+        <g transform="matrix(1,0,0,1,539.624924,269.699356)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">12</text>
+        </g>
+        <g transform="matrix(1,0,0,1,808.249847,0)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">11</text>
+        </g>
+        <g transform="matrix(1,0,0,1,808.249847,269.699356)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">6</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,539.398711)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">9</text>
+        </g>
+        <g transform="matrix(1,0,0,1,271,539.398711)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">7</text>
+        </g>
+        <g transform="matrix(1,0,0,1,539.624924,539.398711)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">13</text>
+        </g>
+        <g transform="matrix(1,0,0,1,808.249847,539.398711)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,809.098067)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">8</text>
+        </g>
+        <g transform="matrix(1,0,0,1,271,809.098067)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">10</text>
+        </g>
+        <g transform="matrix(1,0,0,1,539.624924,809.098067)">
+            <text x="78.9px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,808.249847,809.098067)">
+            <text x="23.3px" y="205.9px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:200px;">14</text>
+        </g>
+    </g>
+    <g id="_34" affinity:id="34">
+        <g transform="matrix(1,0,0,1,136,134.5)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(255,0,0);stroke-width:14.58px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,136,676.851284)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(255,0,0);stroke-width:14.58px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,676.320862,134.5)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(255,0,0);stroke-width:14.58px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,676.320862,676.851284)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(255,0,0);stroke-width:14.58px;"/>
+        </g>
+    </g>
+    <g id="GrandCarres">
+        <g transform="matrix(0.881041,0,0,0.881041,421.775238,423.388811)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(0,134,0);stroke-width:16.55px;"/>
+        </g>
+        <g transform="matrix(0.983637,2.047013,-2.047013,0.983637,679.13511,132.10045)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(0,134,0);stroke-width:6.42px;"/>
+        </g>
+        <g transform="matrix(2.025138,1.02792,-1.02792,2.025138,402.506048,128.577002)">
+            <rect x="0" y="0" width="268" height="269" style="fill:none;stroke:rgb(0,134,0);stroke-width:6.42px;"/>
+        </g>
+    </g>
+    <g id="Lignes">
+        <g transform="matrix(1.002341,0,0,1.163326,-2.213376,-21)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:13.43px;"/>
+        </g>
+        <g transform="matrix(1.002341,0,0,1.473062,-1.818315,943.598067)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(1.002341,0,0,1.163326,809.346579,-21)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:13.43px;"/>
+        </g>
+        <g transform="matrix(1.002341,0,0,1.473062,809.74164,943.598067)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.163326,0,1098.082447,-2.295823)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:13.43px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.473062,0,133.48438,-1.900762)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.473062,0,133.48438,277.417722)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.473062,0,1130.320406,277.417722)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.473062,0,133.48438,543.7415)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.473062,0,1130.320406,543.7415)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.163326,0,1098.082447,809.264132)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:13.43px;"/>
+        </g>
+        <g transform="matrix(0,1.002341,-1.473062,0,133.48438,809.659193)">
+            <path d="M136,128.577L136,0" style="fill:none;stroke:rgb(0,0,255);stroke-width:11.58px;"/>
+        </g>
+        <path d="M402,134.5L402,-21" style="fill:none;stroke:rgb(0,0,255);stroke-width:14.58px;"/>
+        <g transform="matrix(1,0,0,1,0,965.914381)">
+            <path d="M402,134.5L402,-21" style="fill:none;stroke:rgb(0,0,255);stroke-width:14.58px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,273.506398,0)">
+            <path d="M402,134.5L402,-21" style="fill:none;stroke:rgb(0,0,255);stroke-width:14.58px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,273.506398,965.914381)">
+            <path d="M402,134.5L402,-21" style="fill:none;stroke:rgb(0,0,255);stroke-width:14.58px;"/>
+        </g>
+    </g>
+</svg>
